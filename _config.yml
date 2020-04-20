@@ -1,8 +1,8 @@
 # Basic
-title: Vno Jekyll
-subtitle: A blog-orientation theme for Jekyll
+title: Mendax's blog
+subtitle: 少壮不努力，老大信耶稣
 welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
+description: 思考，记录
 creator: <a href="http://onev.cat">@onevcat</a>
 
 url: "http://vno.onevcat.com"
@@ -37,11 +37,11 @@ comment:
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
+    weibo: 2681962207
+    github: GitHub-Mendax
     twitter: onevcat
     gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    mail: 1252658689@qq.com
 
 # Google Analytics
 ga:
